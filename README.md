@@ -1,4 +1,4 @@
-# SeizureDetection
+# Seizure Detection
 <p align="justify">
 The main field of work of this thesis is the detection of seizures using machine learning methods. The data we used came from scalp electroencephalograms (EEGs). This is the 
 CHB-MIT database, which is available for free, from the <a href="https://archive.physionet.org/pn6/chbmit/">PhysioNet platform</a>. In the context of the implementation, the whole 
